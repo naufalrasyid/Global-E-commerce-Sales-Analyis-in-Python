@@ -2,7 +2,7 @@
 
 ## 🎯 1. Pengantar & Konteks Bisnis (*Introduction & Business Context*)
 
-**Overview** Memahami perilaku pelanggan dan efisiensi operasional adalah kunci keberhasilan dalam industri e-commerce. Analisis komprehensif atas 5.000 data transaksi global ini tidak hanya menggali seberapa banyak pendapatan yang masuk (*Gross Revenue*), tetapi juga mengungkap "Kesehatan Bisnis" yang sesungguhnya (*Net Revenue*). Proyek ini mengeksplorasi:
+* **Overview** Memahami perilaku pelanggan dan efisiensi operasional adalah kunci keberhasilan dalam industri e-commerce. Analisis komprehensif atas 5.000 data transaksi global ini tidak hanya menggali seberapa banyak pendapatan yang masuk (*Gross Revenue*), tetapi juga mengungkap "Kesehatan Bisnis" yang sesungguhnya (*Net Revenue*). Proyek ini mengeksplorasi:
 
 * **Pola Belanja & Sensitivitas Harga:** Menganalisis *Average Order Value* (AOV), elastisitas diskon, dan tren musiman.
 * **Segmentasi Pelanggan Berbasis Nilai:** Pemetaan loyalitas menggunakan metode *RFM (Recency, Frequency, Monetary)* murni berdasarkan pendapatan bersih.

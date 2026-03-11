@@ -43,15 +43,27 @@ Proyek ini mengacu pada 8 pilar pertanyaan bisnis utama:
 
 ## 📊 5. Integrasi Dashboard Power BI (*Upcoming Feature*)
 
-Sebagai tindak lanjut dari analisis eksploratif berbasis *Python* ini, temuan data akan diintegrasikan ke dalam **Dashboard Power BI Interaktif** untuk memudahkan pemantauan harian oleh jajaran Direksi (C-Level).
+Sebagai tindak lanjut dari analisis eksploratif berbasis *Python* ini, temuan data akan diintegrasikan ke dalam **Dashboard Power BI Interaktif** untuk memudahkan pemantauan harian.
 
-**Halaman Dashboard yang Direncanakan:**
+**Halaman Dashboard:**
+#### **1. Executive Overview (The Big Picture)**
 
-1. **Executive Overview (The Big Picture):** Melacak indikator makro seperti *Net Revenue*, Total Transaksi, *Global Return Rate*, dan perbandingan Performa Regional (*Revenue* vs *Volume*).
-2. **Customer Intelligence (CRM View):** Visualisasi sebaran segmen RFM (*Champions, Cannot Lose Them*, dll.), rasio *Repeat vs One-Time Buyer*, dan profil demografi (AOV berdasarkan umur & gender).
-3. **Operational & Product Risk (Supply Chain View):** Memantau *Live Shipping SLA* (<4 hari), daftar *Problem Products* yang harus segera diaudit, dan peta risiko metode pembayaran.
+* **Gross Revenue & Volume:** Melacak total arus kas masuk sebesar **$203,22 Juta** dari **5.000 transaksi**.
+* **Global Return Rate:** Memantau kesehatan kualitas layanan di mana angka retur berada di **9,20%**. Ini adalah indikator utama untuk menjaga kepuasan pelanggan tetap tinggi (saat ini di Rating **4,16**).
+* **Regional Dominance:** Fokus pada **North America** sebagai penyumbang pendapatan terbesar (**$65M**) dan **USA** sebagai pemimpin pasar negara tunggal (**$45M**).
 
-*(Screenshot Dashboard Power BI akan disematkan di sini setelah pengembangan selesai).*
+#### **2. Customer Intelligence (CRM View)**
+
+* **Demographic Powerhouse:** Visualisasi menunjukkan bahwa segmen usia **26-35 tahun** adalah penggerak utama bisnis dengan kontribusi **$66M**.
+* **High-Value Insights:** Dengan **Average Order Value (AOV) sebesar $40.644**, fokus strategi adalah mengonversi *New Customers* menjadi *Champions* melalui pendekatan berbasis RFM yang akan dipetakan pada *view* selanjutnya.
+
+#### **3. Operational & Product Risk (Supply Chain View)**
+
+* **SLA Critical Check:** Rata-rata pengiriman saat ini berada di angka **4,32 hari**. Mengingat toleransi konsumen maksimal adalah 4 hari, bagian ini menjadi alarm bagi logistik untuk mengevaluasi efisiensi pengiriman agar tidak memicu retur tambahan.
+* **Product Exposure:** Kategori **Electronics** mendominasi total risiko finansial dengan eksposur pendapatan sebesar **$118M**. Kualitas produk di kategori ini wajib diaudit secara rutin karena setiap retur berdampak signifikan pada margin laba.
+* **Payment Risk:** Memantau ketergantungan pada **Credit Card (38,2%)** dan mitigasi biaya pada metode **Cash on Delivery (4,96%)**.
+---
+<img width="799" height="442" alt="image" src="https://github.com/user-attachments/assets/af07b73d-12cc-4504-a05b-597c3d997cc6" />
 
 ---
 
